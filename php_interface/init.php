@@ -3,7 +3,8 @@
 CModule::IncludeModule("main");
 CModule::IncludeModule("iblock");
 
-//Функции отладки!!!
+//Функции отладки!
+//Функции отладки!
 
 function pre($var, $all = false, $title = false)
 {
